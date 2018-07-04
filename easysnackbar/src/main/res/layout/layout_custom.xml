@@ -9,7 +9,7 @@
         android:background="#55FFFF00"
         android:gravity="center"
         android:text="Custom Layout"
-        android:textColor="@color/colorAccent"
+        android:textColor="#FF0000"
         android:textSize="24sp"/>
 
 </LinearLayout>
