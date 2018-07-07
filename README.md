@@ -14,16 +14,6 @@ This a SnackBar focuse on show custom layout,so it will not provide the same int
 
 1. Adding dependencies 
 ``` gradle
-android {
-    defaultConfig {
-	...
-	javaCompileOptions {
-	    annotationProcessorOptions {
-		arguments = [ moduleName : project.getName() ]
-	    }
-	}
-    }
-}
 
 dependencies {
     compile 'com.sun.easysnackbar:easysnackbar:1.0.0'
