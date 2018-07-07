@@ -14,7 +14,7 @@ This a SnackBar focuse on show custom layout,so it will not provide the same int
 ``` gradle
 
 dependencies {
-    compile 'com.sun.easysnackbar:easysnackbar:1.0.0'
+    compile 'com.sun.easysnackbar:easysnackbar:1.0.1'
     ...
 }
 ```
