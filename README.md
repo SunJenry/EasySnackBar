@@ -1,9 +1,7 @@
 # EasySnackBar
 A SnackBar can show at top and bottom with a custom layout.
 
-```
 This a SnackBar focuse on show custom layout,so it will not provide the same interface as the Google'Snackbar.
-```
 
 #### The effect show as the GIF below
 
