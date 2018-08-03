@@ -3,6 +3,10 @@ A SnackBar can show at top and bottom with a custom layout.
 
 This a SnackBar focuse on show custom layout,so it will not provide the same interface as the Google'Snackbar.
 
+#### Notice
+This Snackbar must be used in same environment as the google's Snackbar, otherwise it will show in wrong case.
+For example, it's should be shown in a CoordinatorLayout.
+
 #### The effect show as the GIF below
 
 ![demo](https://github.com/SunJenry/EasySnackBar/blob/master/cq382-3pv13.gif)
